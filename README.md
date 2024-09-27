@@ -51,7 +51,7 @@
 </p>
 
 <h3 align="center">🛠 My Expertise</h3>
-<ul align="center">
+<ul align="center" style="list-style:none;">
     <li>Linux System Administration</li>
     <li>AWS Cloud Architecture</li>
     <li>Cyber Security</li>
@@ -60,26 +60,19 @@
 </ul>
 
 <h3 align="center">📈 Work Experience</h3>
-<ul align="center">
+<ul align="center" style="list-style:none;">
     <li>Head of IT at Logic School of Management (06/2022 - Present)</li>
     <li>Co-Founder & CEO at Littlemesh Lab (09/2018 - 11/2022)</li>
     <li>ERP Specialist at Seals Centre WLL (10/2021 - 05/2022)</li>
     <li>ERP Administrator at HUGS India Ltd (04/2021 - 04/2022)</li>
 </ul>
 
-<h3 align="center">📚 Education</h3>
-<ul align="center">
-    <li>Bachelor of Computer Application, University of Calicut (2015 - 2018)</li>
-</ul>
-
 <h3 align="center">💡 Certifications</h3>
-<ul align="center">
+<ul align="center" style="list-style:none;">
     <li>AWS Cloud Architect</li>
     <li>CompTIA Linux+</li>
     <li>Cyber Security</li>
     <li>Introduction to Artificial Intelligence</li>
 </ul>
 
-<p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/itserpexpert/)
-</p>
+
